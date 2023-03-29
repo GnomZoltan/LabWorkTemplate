@@ -131,6 +131,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="points.h" />
+    <ClInclude Include="service.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="points.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
